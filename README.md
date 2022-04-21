@@ -7,3 +7,24 @@ Você também pode contribuir com esse repositório me enviando sugestões didá
 
 ## Isso não é um projeto
 Não, não é um projeto. Mas uma (pretensa) coleção de código fontes em python que leve o aluno a entender e trabalhar com a linguagem python, de forma simples, ágil e compreendendo a natureza algorítmica da solução de problemas (sem se preocupar com questões de eficiência do código e/ou de estilo de programação - inicialmente).
+
+## Siga o Fluxo
+
+**Recomendamos** que você siga as lições na seguinte ordem:
+  
+ - [Introdução - Variáveis e Tipos](https://github.com/CodeParlance/PyLabs/blob/main/IntroPy01.ipynb)
+ - [Operações elementares](https://github.com/CodeParlance/PyLabs/blob/main/IntroPy02.ipynb)
+ - [Definição de funções](https://github.com/CodeParlance/PyLabs/blob/main/IntroPy03.ipynb)
+ - Prática de algoritmos com Python
+	 - [Praticando I](https://github.com/CodeParlance/PyLabs/blob/main/PratiquePy.ipynb)
+	 - [Praticando II](https://github.com/CodeParlance/PyLabs/blob/main/PratiquePy02.ipynb)
+	 - [Praticando III](https://github.com/CodeParlance/PyLabs/blob/main/PratiquePy03.ipynb)
+ - [Processamento de Listas](https://github.com/CodeParlance/PyLabs/blob/main/ProcessandoListasPy01.ipynb)
+ - [Bibliotecas Fundamentais](https://github.com/CodeParlance/PyLabs/blob/main/LibsPy01.ipynb)
+ 
+
+## Disclaimer and Copyright notes
+
+Esse material é distribuído para você com base num esforço pedagógico
+e educativo, sem fins lucrativos e é regido sob a licença [Creative Commons](https://creativecommons.org/licenses/by/4.0/). 
+Cite e dê os devidos créditos, mesmo usando e modificando o material.
