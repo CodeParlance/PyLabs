@@ -1,4 +1,4 @@
-## PyLabs - Introdução Básica à Python 3+ [para estudantes e estudiosos]
+## PyLabs - Introdução Básica ao Python 3+ [para estudantes e estudiosos]
 
 Esse repositório é dirigido a alunos que se iniciam em linguagens de programação. É uma versão simples, rápida e prática ao aluno impaciente que necessita aprender a linguagem para resolver problemas e ao mesmo tempo precisar aprender a resolver problemas de forma algorítmica. Esse repositório foi feito para ajudar meus alunos a saírem do 0 para o 1 na programação em Python, e depois com muito estudo, dedicação e disciplina descobrirem todo o potencial da linguagem em suas inúmeras bibliotecas e com vários recursos avançados. 
 
