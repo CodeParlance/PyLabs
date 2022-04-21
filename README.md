@@ -27,4 +27,4 @@ Não, não é um projeto. Mas uma (pretensa) coleção de código fontes em pyth
 
 Esse material é distribuído para você com base num esforço pedagógico
 e educativo, sem fins lucrativos e é regido sob a licença [Creative Commons](https://creativecommons.org/licenses/by/4.0/). 
-Cite e dê os devidos créditos, mesmo usando e modificando o material.
+Cite e dê os devidos créditos, mesmo usando e/ou modificando o material.
